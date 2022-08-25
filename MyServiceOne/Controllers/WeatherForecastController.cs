@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
 namespace MyServiceOne.Controllers;
-
+// Test
 [ApiController]
 [Route("[controller]")]
 public class ForecastController : ControllerBase
